@@ -1,0 +1,152 @@
+*{background-color: white;}
+
+
+.copa{
+    background-color: blue;
+    width: 80px; height: 80px;
+    position: fixed;
+    left: 735px;
+}
+.base{
+    background-color: blue;
+    border-radius:50%;
+    width: 150px; height: 30px;
+    position: fixed;
+    left: 700px;
+    top: 65px;
+}
+.cara{
+    background-color: white;
+    width: 150px; height: 150px;
+    border-radius: 100%;
+    position: fixed;
+    left: 700px;
+    top: 95px;
+    border: solid;
+    border-color: black;
+}
+.ojo1{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100%;
+    width: 35px; height: 35px;
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+.ojo2{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100%;
+    width: 35px; height: 35px;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+.pupila1{
+    background-color: black;
+    border-radius: 100%;
+    width: 20px; height: 20px;
+    position: absolute;
+    left: 8px;
+    top: 10px;
+}
+.nariz{
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 50px solid orange;
+    position: absolute;
+    left: 50px;
+    top: 80px;
+  }
+  
+.boca{
+    width:  80px; height: 5px;
+    background-color: black;
+    position: absolute;
+    left: 35px;
+    bottom: 30px;
+}
+.pupila2{
+    background-color: black;
+    border-radius: 100%;
+    width: 20px; height: 20px;
+    position: absolute;
+    right: 8px;
+    top: 10px;
+}
+.cuerpo{
+    background-color: white;
+    width: 200px; height: 200px;
+    border-radius: 100%;
+    position: fixed;
+    left: 680px;
+    top: 240px;
+    border: solid;
+    border-color: black;
+}
+.brazo1{
+    background-color: white;
+    width: 200px; height: 10px;
+    transform: rotate(-45deg);
+    position: fixed;
+    left: 850px;
+    top: 250px;
+    border: solid;
+    border-color: black;
+}
+.brazo2{
+    background-color: white;
+    width: 200px; height: 10px;
+    transform: rotate(45deg);
+    position: fixed;
+    left: 510px;
+    top: 250px;
+    border: solid;
+    border-color: black;
+}
+.boton1{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100%;
+    width: 35px; height: 35px;
+    position: absolute;
+    left: 75px;
+    top: 20px;
+    border: solid;
+    border-color: black;
+}
+.boton2{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100%;
+    width: 35px; height: 35px;
+    position: absolute;
+    left: 75px;
+    top: 70px;
+}
+.boton3{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100%;
+    width: 35px; height: 35px;
+    position: absolute;
+    left: 75px;
+    top: 120px;
+}
+.pies{
+    background-color: white;
+    width: 250px; height: 250px;
+    border-radius: 100%; position: fixed;
+    left: 665px;
+    top: 435px;
+    border: solid;
+    border-color: black;
+}
